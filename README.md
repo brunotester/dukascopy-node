@@ -8,7 +8,7 @@
 </p>
 
 > A node.js library for fetching and aggregation of historical OHLC (open, high, low, close) price data for 500+ instruments (stocks/commodities/currencies/cfd/crypto) from publicly available sources on https://www.dukascopy.com/
-future custom x
+future custom x, experimental dev
 
 ## Installation
 
